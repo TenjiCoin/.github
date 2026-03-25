@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://tenjicoin.vercel.app)">Website</a>
+  <a href="https://tenjicoin.vercel.app">Website</a>
   •
   <a href="https://x.com/CoinTenji70103">Twitter / X</a>
 </p>
