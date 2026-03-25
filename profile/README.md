@@ -31,6 +31,8 @@ and still coming back for the next trade.
 
 This GitHub organization is the technical home of the Tenji ecosystem.
 
+Official Webiste: [https://tenjicoin.vercel.app](https://tenjicoin.vercel.app)
+
 ---
 
 ## Core Repositories
@@ -38,7 +40,7 @@ This GitHub organization is the technical home of the Tenji ecosystem.
 | Repository                                                    | Purpose                                                                                     |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | [`TenjiCoin`](https://github.com/TenjiCoin/TenjiCoin)         | Core smart contracts, airdrop logic, deployment scripts, tests, and technical documentation |
-| [`tenji-website`](https://github.com/TenjiCoin/tenji-website) | Official website                                                                            |
+| [`tenji-website`](https://github.com/Tenyokj/tenjicoin-front) | Official website                                                                            |
 | [`tenji-docs`](https://github.com/TenjiCoin/tenji-docs)       | Documentation and guides                                                                    |
 | [`tenji-assets`](https://github.com/TenjiCoin/tenji-assets)   | Branding and media assets                                                                   |
 
