@@ -9,13 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="xxxx">Website</a>
+  <a href="(https://tenjicoin.vercel.app)">Website</a>
   •
-  <a href="xxxx">Docs</a>
-  •
-  <a href="xxxx">Twitter / X</a>
-  •
-  <a href="xxxx">Telegram</a>
+  <a href="https://x.com/CoinTenji70103">Twitter / X</a>
 </p>
 
 ---
@@ -30,8 +26,6 @@ too late to react —
 and still coming back for the next trade.
 
 This GitHub organization is the technical home of the Tenji ecosystem.
-
-Official Webiste: [https://tenjicoin.vercel.app](https://tenjicoin.vercel.app)
 
 ---
 
